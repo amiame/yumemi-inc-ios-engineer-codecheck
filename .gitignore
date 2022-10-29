@@ -1,8 +1,0 @@
-HEAD
-FETCH_HEAD
-ORIG_HEAD
-commondir
-gitdir
-index
-index.lock
-logs/**/*
